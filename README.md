@@ -7,6 +7,12 @@ Given an integer `x`, return `true` if `x` is a palindrome, and `false` otherwis
 
 ---
 
+# Problem Screenshot
+
+![Problem Screenshot](Screenshot%202026-05-19%20140113(1).png)
+
+---
+
 # Java Solution
 
 ```java
@@ -37,26 +43,3 @@ class Solution {
         }
     }
 }
-```
-
----
-
-# Flowchart
-
-Add your flowchart image here.
-
-# Screenshots
-
-Add accepted submission screenshots here.
-
----
-
-# Complexity
-
-Time Complexity: O(log n)
-
-Space Complexity: O(1)
-
----
-
-⭐ Day 1 completed successfully.
